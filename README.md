@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-## 📺 https://www.youtube.com/channel/UC5hn7RqH2boAfEgwDd5FxXg
+## I'm Siddhanth, a passionate full-stack developer.
+
+### 📺 https://www.youtube.com/channel/UC5hn7RqH2boAfEgwDd5FxXg
 
 <!--
 **sidgithub780/sidgithub780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
