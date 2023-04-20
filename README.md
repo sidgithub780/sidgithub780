@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Siddhanth, a passionate full-stack developer.
+## I'm Siddhanth, a full-stack developer.
 
 ### 📺 https://www.youtube.com/channel/UC5hn7RqH2boAfEgwDd5FxXg
 
