@@ -1,7 +1,3 @@
-# Hi there 👋
-
-## I'm Siddhanth, a full-stack developer.
-
 ### 📺 https://www.youtube.com/@siddhanthkumar
 ### 👨‍💻 https://siddhanth.dev
 
